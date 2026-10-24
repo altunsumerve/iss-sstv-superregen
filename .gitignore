@@ -1,0 +1,12 @@
+__pycache__/
+*_temiz/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+secrets.h
+analiz/ciktilar/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "name": "iss-sstv-superregen",
+  "description": "Exploring ISS SSTV reception with a 433 MHz superregenerative receiver, ESP32 and Raspberry Pi. AM/FM experiments, recordings and Python analysis; no SSTV decode yet.",
+  "topics": [
+    "sstv", "iss", "ariss", "robot36", "superregenerative-receiver",
+    "433mhz", "xy-mk-5v", "esp32", "raspberry-pi", "rpitx",
+    "rf", "amateur-radio", "signal-processing", "electronics", "python",
+    "quenching", "autodyne"
+  ]
+}

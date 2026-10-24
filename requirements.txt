@@ -1,0 +1,5 @@
+numpy
+scipy
+soundfile
+matplotlib
+sstv==0.2.0

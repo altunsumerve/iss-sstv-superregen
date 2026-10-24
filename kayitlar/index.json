@@ -1,0 +1,101 @@
+[
+  {
+    "original_name": "sstv_1dk (3).wav",
+    "file": "sstv_fm_deneme.wav",
+    "sha256": "becb6c55055cc47883a4c7ff1d7de741826466dfea0cbdd0fbc4721e8e8e081c",
+    "sample_rate_hz": 9999,
+    "samples": 599940,
+    "duration_seconds": 60.0,
+    "kind": "sstv_test"
+  },
+  {
+    "original_name": "sstv_1dk (4).wav",
+    "file": "sstv_fm_deneme_04.wav",
+    "sha256": "5193fe96dd8d858419926f2563003c7c2e2b5f0ec1e3b4e8bd8ed0741cc195f4",
+    "sample_rate_hz": 9999,
+    "samples": 599940,
+    "duration_seconds": 60.0,
+    "kind": "sstv_test"
+  },
+  {
+    "original_name": "sstv_1dk (5).wav",
+    "file": "sstv_fm_deneme_05.wav",
+    "sha256": "22aa43ee1383ccfcf7efa0a7a1065caa4ebfb1739f0cb87c89250108763aaa5c",
+    "sample_rate_hz": 9999,
+    "samples": 599940,
+    "duration_seconds": 60.0,
+    "kind": "sstv_test"
+  },
+  {
+    "original_name": "sstv_1dk (6).wav",
+    "file": "sstv_fm_deneme_06.wav",
+    "sha256": "42db12453840338c06cfae6387c396d10cff84780e733d7515f301a54bc65a12",
+    "sample_rate_hz": 9999,
+    "samples": 599940,
+    "duration_seconds": 60.0,
+    "kind": "sstv_test"
+  },
+  {
+    "original_name": "h1_pi_kapali (6).wav",
+    "file": "h1_pi_kapali_200k_06.wav",
+    "sha256": "8b8cc41789be285a0d4f163a93184d9ad6fd7805a106049221e104402e63055a",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "transmitter_off"
+  },
+  {
+    "original_name": "h3_fm_ton (3).wav",
+    "file": "h3_fm_ton_200k.wav",
+    "sha256": "eaeb667f8e16ad19344fab98bb87f510442d6ba176cc3fe8be964558a002351f",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "fm_tone_test"
+  },
+  {
+    "original_name": "h3_fm_ton (4).wav",
+    "file": "h3_fm_ton_200k_04.wav",
+    "sha256": "0225dbe2f167e990080841ce9327bc2071e7944c835f2ed8477b32a4db8b08ac",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "fm_tone_test"
+  },
+  {
+    "original_name": "h3_fm_ton (5).wav",
+    "file": "h3_fm_ton_200k_b.wav",
+    "sha256": "4e36b4fa6580b674671310ba977fb360e16f4271242053b16e4b7dfa5a7181c5",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "fm_tone_test"
+  },
+  {
+    "original_name": "h3_fm_ton (6).wav",
+    "file": "h3_fm_ton_200k_06.wav",
+    "sha256": "3567b831bb1400ffa3d2be2c12e63e6cbf2eab3d8f0e5c632a068cafd5cdf993",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "fm_tone_test"
+  },
+  {
+    "original_name": "h3_fm_ton (7).wav",
+    "file": "h3_fm_ton_200k_07.wav",
+    "sha256": "4bf70aa82dc1077eaab23433ffa8915769263d1ee7b920c2a32aeff07d7ee3b5",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "fm_tone_test"
+  },
+  {
+    "original_name": "h3_fm_ton (8).wav",
+    "file": "h3_fm_ton_200k_08.wav",
+    "sha256": "30063e667cf27da5b8cd053e194dc8e65eb0f5c18537f4ca65e42a42cc0eabc9",
+    "sample_rate_hz": 199988,
+    "samples": 28906,
+    "duration_seconds": 0.1445386723203392,
+    "kind": "fm_tone_test"
+  }
+]
